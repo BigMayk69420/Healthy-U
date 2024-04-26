@@ -1,0 +1,7 @@
+flask
+beem
+flask-login
+pymongo
+flask-wtf
+flask-pymongo
+email-validator
